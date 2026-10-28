@@ -1,0 +1,5 @@
+name: SeoAcheiLocal
+variables:
+  - name: URL_BACKEND
+    value: " https://127.0.0.1:8000"
+    description: ""
